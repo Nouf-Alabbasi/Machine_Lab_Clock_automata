@@ -16,29 +16,41 @@ We tested out two fabircs to determine if we prefer a certain thickness or fabri
   <img src="vid_img/prototyping/img_8.png" width="350" width="350">
 </p>
 
-We also tested serveral methods to pull the curtain open.
+We also tested serveral methods to pull the curtain open.<br>
+### method 1:
 we tried to mimic this mechanism: 
 <p align="center">
   <img src="vid_img/prototyping/img_15.jpeg" width="350" width="350">
 </p>
 <p align="center">
   <img src="vid_img/prototyping/img_12.png" width="350" width="350">
+</p><br>
+
+### method 2: <br>
+<p align="center">
+  <img src="vid_img/prototyping/img_15.PNG" width="350" width="350">
 </p>
 <p align="center">
-  <img src="vid_img/prototyping/img_15.png" width="350" width="350">
-</p>
+  <img src="vid_img/prototyping/img_16.PNG" width="350" width="350">
+</p><br>
+
+
+
+https://user-images.githubusercontent.com/83579909/230886131-b2b11269-b6f0-4981-90ef-da78aaf2dce8.mp4
+
+
+### method 3
+https://user-images.githubusercontent.com/83579909/230885786-bae0fd30-3dfd-4511-900e-8b2abe021e2a.MOV
+
+
+### method 4
 <p align="center">
-  <img src="vid_img/prototyping/img_15.png" width="350" width="350">
-</p>
+  <img src="vid_img/prototyping/img_5.png" width="350" width="350">
+</p><br>
 
-https://user-images.githubusercontent.com/83579909/230883555-f410ca19-e74d-4bec-9f7e-f96239a5c433.MOV
-
-
+https://user-images.githubusercontent.com/83579909/230885859-856bee99-3d34-42a7-8576-64b2810d2e9e.MOV
 
 
-method 1:
-
-method 2:
 
 ## 🧒 child peaking out of window
 **material:** <br>
@@ -51,6 +63,15 @@ We used a servo motor tilt the the structure the child figure is one which allow
 https://user-images.githubusercontent.com/83579909/230883664-579d3d79-d005-4923-baad-bab363cfc187.MOV
 
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 # ▪️ scene 2:
@@ -67,7 +88,24 @@ there were a few things we wanted to alter for the next prototype. We needed it 
   <img src="vid_img/prototyping/img_1.jpeg" width="350" width="350">
 </p>
 
-Our second prototype:
+
+https://user-images.githubusercontent.com/83579909/230885625-82a91fc1-7493-469b-a6c9-6737dd387f1f.MOV
+
+
+### Our second prototype:
+
+
+https://user-images.githubusercontent.com/83579909/230885559-29868ef4-10ce-4732-a133-0dd6c5aabca7.mp4
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 # ▪️ scene 3:
@@ -76,3 +114,8 @@ Our second prototype:
 tbd
 
 **prototypes**
+
+
+https://user-images.githubusercontent.com/83579909/230886218-380bc7cd-bd7c-4cb8-8e67-5ea019923c30.mp4
+
+
