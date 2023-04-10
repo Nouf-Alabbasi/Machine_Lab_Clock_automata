@@ -111,10 +111,17 @@ https://user-images.githubusercontent.com/83579909/230885559-29868ef4-10ce-4732-
 # ▪️ scene 3:
 ## 🌊 waves
 **material:** <br>
-tbd
+for the first prototype -- cardboard and washers.
+for the final - acryllic or wood, better defined mechanisms.
 
 **prototypes**
+We first designed the printing parts in Adobe Illustator and then used the laser cutting machine in the IM lab to make the cardboard pieces.
+Amina has used [Federico Tobon's](wolfcatworkshop.com) alien wave piece as a reference to craft this prototype.
 
+For now we have the basic mechanism and was wondering if someone could offer some pointers or feedback on how to make it move better/more efficiently. Namely, we are brainstorming on what type of motor to use.
+
+Some of the questions that we still have and that would be beneficial to answer for the 2nd iteration:
+- What do you think should move the wave mechanism in the back? Cams and rods? Servo? Something else?
 
 https://user-images.githubusercontent.com/83579909/230886218-380bc7cd-bd7c-4cb8-8e67-5ea019923c30.mp4
 
