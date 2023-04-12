@@ -29,6 +29,7 @@ more details [here](https://github.com/Nouf-Alabbasi/machineLab/tree/main/March_
 * mother and child figures behind the curtain
 * "Z Z z z" sign above the house
 * boy peeking out of window (aksing "should we go play outside")
+* boy going outside(peeking out the door, or sliding in and out)
 * creature peaking out
 
 ## scene 2 (Umm Alsaaf w eleaf - night)
