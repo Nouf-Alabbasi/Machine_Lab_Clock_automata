@@ -24,25 +24,25 @@ more details [here](https://github.com/Nouf-Alabbasi/machineLab/tree/main/March_
 
 # ◼️ parts
 ## scene 1 (hemarat algayla - noon)
-* door opening/closing
-* curtain opening/closing
-* mother and child figures behind the curtain
-* "Z Z z z" sign above the house
-* boy peeking out of window (aksing "should we go play outside")
-* boy going outside(peeking out the door, or sliding in and out)
-* creature peaking out
+- [ ] door opening/closing
+- [ ] curtain opening/closing
+- [ ] mother and child figures behind the curtain
+- [ ] "Z Z z z" sign above the house
+- [ ] boy peeking out of window (aksing "should we go play outside")
+- [ ] boy going outside(peeking out the door, or sliding in and out)
+- [ ] creature peaking out
 
 ## scene 2 (Umm Alsaaf w eleaf - night)
-* wheel with palm trees on it
-* the creature and child running
-* the palm trees that hide the child and creature before this scene starts
+- [ ] wheel with palm trees on it
+- [ ] the creature and child running
+- [ ] the palm trees that hide the child and creature before this scene starts
 
 ## scene 3 (Bu Daryaa)
-* waves strucuture
-* the men and creature going up and down
+- [ ] waves strucuture
+- [ ] the men and creature going up and down
 
 ## General  parts
-* the sun and moon behind the charecters
-* text for narrations
-* light that lights up current scene(?)
+- [ ] the sun and moon behind the charecters
+- [ ] text for narrations
+- [ ] light that lights up current scene(?)
 
