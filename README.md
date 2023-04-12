@@ -23,7 +23,7 @@ more details [here](https://github.com/Nouf-Alabbasi/machineLab/tree/main/March_
 * test their size and placement in the box
 
 # ◼️ parts
-## scene 1 (hemaray algayla - noon)
+## scene 1 (hemarat algayla - noon)
 * door opening/closing
 * curtain opening/closing
 * mother and child figures behind the curtain
