@@ -45,4 +45,5 @@ more details [here](https://github.com/Nouf-Alabbasi/machineLab/tree/main/March_
 - [ ] the sun and moon behind the charecters
 - [ ] text for narrations
 - [ ] light that lights up current scene(?)
+- [ ] designing the design
 
