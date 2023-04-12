@@ -6,51 +6,45 @@ tbd
 **prototypes**
 We tried two methods of opening and closing the curtains. In one method we used a servo motor to move a peice of carboard with fabric stuck on it. The other method was to use a pully mechanism to pull the curtain open, and we used elastic to pull the curtain shut.
 We tested out two fabircs to determine if we prefer a certain thickness or fabric type.
-<p align="center">
+
+<div display=inline-flex>
   <img src="vid_img/prototyping/img_4.png" width="350" width="350">
-</p>
-<p align="center">
   <img src="vid_img/prototyping/img_7.png" width="350" width="350">
-</p>
-<p align="center">
   <img src="vid_img/prototyping/img_8.png" width="350" width="350">
-</p>
+</div>
 
 We also tested serveral methods to pull the curtain open.<br>
 ### method 1:
 we tried to mimic this mechanism: 
-<p align="center">
-  <img src="vid_img/prototyping/img_15.jpeg" width="350" width="350">
-</p>
-<p align="center">
-  <img src="vid_img/prototyping/img_12.png" width="350" width="350">
-</p><br>
+
+<div display=inline-flex>
+  <img src="vid_img/prototyping/img_15.jpeg" width="250">
+  <img src="vid_img/prototyping/img_12.png" width="250">
+</div>
 
 ### method 2: <br>
-<p align="center">
-  <img src="vid_img/prototyping/img_15.PNG" width="350" width="350">
-</p>
-<p align="center">
-  <img src="vid_img/prototyping/img_16.PNG" width="350" width="350">
-</p><br>
+<div display=inline-flex>
+  <img src="vid_img/prototyping/img_15.PNG" width="250" >
+  <img src="vid_img/prototyping/img_16.PNG" width="250"">
+
 
 
 
 https://user-images.githubusercontent.com/83579909/230886131-b2b11269-b6f0-4981-90ef-da78aaf2dce8.mp4
-
+</div>
 
 ### method 3
 https://user-images.githubusercontent.com/83579909/230885786-bae0fd30-3dfd-4511-900e-8b2abe021e2a.MOV
 
 
 ### method 4
-<p align="center">
+
+<div display=inline-flex>
   <img src="vid_img/prototyping/img_5.png" width="350" width="350">
-</p><br>
 
 https://user-images.githubusercontent.com/83579909/230885859-856bee99-3d34-42a7-8576-64b2810d2e9e.MOV
 
-
+</div>
 
 ## 🧒 child peaking out of window
 **material:** <br>
@@ -84,13 +78,11 @@ We were inspired by the walkinig automata by [Federico Tobon](wolfcatworkshop.co
 This was our first prototype:
 
 there were a few things we wanted to alter for the next prototype. We needed it to be running sideways, we also wanted to adde some arm movements and improve the protoype overall. We tested a few rode shapes until we found the ideal movement(this is the rode that determines the movement of the legs):
-<p align="center">
+<div display=inline-flex>
   <img src="vid_img/prototyping/img_1.jpeg" width="350" width="350">
-</p>
-
 
 https://user-images.githubusercontent.com/83579909/230885625-82a91fc1-7493-469b-a6c9-6737dd387f1f.MOV
-
+</div>
 
 ### Our second prototype:
 
