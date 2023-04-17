@@ -24,7 +24,7 @@ more details [here](https://github.com/Nouf-Alabbasi/machineLab/tree/main/March_
 
 # ◼️ parts
 ## scene 1 (hemarat algayla - noon)
-- [ ] door opening/closing
+- [x] door opening/closing
 - [ ] curtain opening/closing
 - [ ] mother and child figures behind the curtain
 - [ ] "Z Z z z" sign above the house
@@ -33,9 +33,9 @@ more details [here](https://github.com/Nouf-Alabbasi/machineLab/tree/main/March_
 - [ ] creature peaking out
 
 ## scene 2 (Umm Alsaaf w eleaf - night)
-- [ ] wheel with palm trees on it
-- [ ] the creature and child running
-- [ ] the palm trees that hide the child and creature before this scene starts
+- [X] wheel with palm trees on it
+- [X] the creature and child running
+- [x] the palm trees that hide the child and creature before this scene starts
 
 ## scene 3 (Bu Daryaa)
 - [ ] waves strucuture
