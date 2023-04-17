@@ -77,6 +77,8 @@ tbd
 <br>
 <br>
 
+Note on the door sliding mechanism: we will be using a servo idea that was initially set for the window.
+
 
 # ▪️ scene 2:
 ## 🏃running
