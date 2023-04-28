@@ -50,6 +50,9 @@ https://user-images.githubusercontent.com/83579909/230885786-bae0fd30-3dfd-4511-
 
 https://user-images.githubusercontent.com/83579909/230885859-856bee99-3d34-42a7-8576-64b2810d2e9e.MOV
 
+### notes
+* we created clamps for the curetain pully band. Those would be aattached to the curtain and would pull it open and shut.
+* we decided to use 2 screws with a shaft coupling between them instead of the rods becuase they were easier to handle and adjust.
 
 
 ## 🧒 child peaking out of window
@@ -78,6 +81,14 @@ tbd
 <br>
 
 Note on the door sliding mechanism: we will be using a servo idea that was initially set for the window.
+
+
+## all parts combined
+after careful planning of how the parts would fit together we laser cut the parts out of cardboard and assembled it taking note of what should change in the next prototpe.
+some of the things we wanted to change were: a. how far apart the two pully gears are, b. add a base for the door axis rod, c. the placement of some of the ridges was wrong so that needed to be fixed.
+
+
+
 
 
 # ▪️ scene 2:
